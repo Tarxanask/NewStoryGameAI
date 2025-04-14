@@ -1,0 +1,371 @@
+[
+  {
+    "scene": "[Mike enters the main hallway of the Chilton Hotel, he is carrying the briefcase, he tugs at his collar, seems very nervous. A bellboy wheels a trolley past him, then he spots a sign saying ' PEARSON HARDMAN HARVARD LAW INTERVIEWS Room 2005'.]",
+    "characters": ["Mike", "Bellboy"],
+    "dialogue": []
+  },
+  {
+    "scene": "[Close up of Donna, sat at her desk, laptop in front of her.]",
+    "characters": ["Donna"],
+    "dialogue": [
+      {
+        "character": "DONNA",
+        "line": "[Looking through some papers] So... Chip."
+      }
+    ]
+  },
+  {
+    "scene": "[We see Chip, a young Harvard Law student, he looks fairly lively.]",
+    "characters": ["Donna", "Chip"],
+    "dialogue": [
+      {
+        "character": "DONNA",
+        "line": "What makes you think that I'm gonna let the whitest man that I have ever seen interview for our firm?"
+      },
+      {
+        "character": "CHIP",
+        "line": "Um, because I have an appointment."
+      }
+    ]
+  },
+  {
+    "scene": "[Donna looks surprised at how unimpressive Chip's answer was, she motions him in to see Harvey as Harvey sees another young Harvard Law student out. Harvey shakes hands with Chip and they enter his office, Harvey looking back at Donna who shakes her head, wide-eyed and mimes \"no\".]",
+    "characters": ["Donna", "Harvey", "Chip"],
+    "dialogue": []
+  },
+  {
+    "scene": "[Mike washes his face in a sink in a men's room at the Chilton Hotel. He breathes deeply as he dries his face with a paper towel.]",
+    "characters": ["Mike"],
+    "dialogue": [
+      {
+        "character": "MIKE",
+        "line": "[To himself in the mirror] You can do this."
+      }
+    ]
+  },
+  {
+    "scene": "[He stands upright, takes the briefacase and exits the men's room. He presses a button to call an elevator and a father and his son walk by talking quietly about the pool being closed. Mike then spots a sign saying 'POOL IS CLOSED'. The elevator arrives, he enters.]",
+    "characters": ["Mike", "Father", "Son"],
+    "dialogue": []
+  },
+  {
+    "scene": "[Close up of Donna at her desk again.]",
+    "characters": ["Donna"],
+    "dialogue": [
+      {
+        "character": "DONNA",
+        "line": "Kid, what is wrong with you? You look like you're 11 years old."
+      }
+    ]
+  },
+  {
+    "scene": "[We see a young-looking Harvard Law student stood at the other side of the desk.]",
+    "characters": ["Donna", "Harvard Law Student #2"],
+    "dialogue": [
+      {
+        "character": "HARVARD LAW STUDENT #2",
+        "line": "I was late to puberty."
+      }
+    ]
+  },
+  {
+    "scene": "[Donna motions him in to see Harvey, again looking very unimpressed.]",
+    "characters": ["Donna", "Harvey"],
+    "dialogue": [
+      {
+        "character": "HARVEY",
+        "line": "[Offscreen] Thank you."
+      }
+    ]
+  },
+  {
+    "scene": "[Harvey sees another Harvard Law student out and welcomes the next one in.]",
+    "characters": ["Harvey", "Harvard Law Student"],
+    "dialogue": [
+      {
+        "character": "HARVEY",
+        "line": "Harvey Specter. [Shakes the student's hand.]"
+      }
+    ]
+  },
+  {
+    "scene": "[Harvey looks back at Donna as they enter the room, she shakes her head with a drastic expression on her face.] [Mike is still rushing down the stairs, he knocks his briefcase on the side and one of the latches becomes undone. The bellboy runs through the door Mike went through and looks down the stairwell, then up, then back down. He then begins to run down the stairwell.]",
+    "characters": ["Harvey", "Donna", "Mike", "Bellboy"],
+    "dialogue": []
+  },
+  {
+    "scene": "[Harvey walks back into his meeting room. Donna is stood at her desk. Many Harvard Law students are sat in the lobby waiting for their interviews.]",
+    "characters": ["Harvey", "Donna", "Harvard Law Students"],
+    "dialogue": [
+      {
+        "character": "DONNA",
+        "line": "Rick Sorkin. [Louder] Rick Sorkin."
+      }
+    ]
+  },
+  {
+    "scene": "[Mike runs by and stops in the doorway, he coughs.]",
+    "characters": ["Mike", "Donna"],
+    "dialogue": [
+      {
+        "character": "DONNA",
+        "line": "[To Mike] Rick Sorkin? [As Mike enters slowly, confused] Excuse me, Mr. Sorkin, you are 5 minutes late, is there a reason why I should let you in?"
+      },
+      {
+        "character": "MIKE",
+        "line": "[Checks behind him, mimes \"wha..?\"] Look-, look, I'm just trying to ditch the cops, okay? I don't-, I don't really care if you let me in or not. [Checks behing again.]"
+      }
+    ]
+  },
+  {
+    "scene": "[Donna looks through to Harvey and winks.]",
+    "characters": ["Donna", "Mike"],
+    "dialogue": [
+      {
+        "character": "DONNA",
+        "line": "Mr. Specter will be right with you."
+      },
+      {
+        "character": "MIKE",
+        "line": "What?"
+      },
+      {
+        "character": "DONNA",
+        "line": "Can I get you anything? A coffee? A bottle of water?"
+      }
+    ]
+  },
+  {
+    "scene": "[Skips to Mike entering the room Harvey is in.]",
+    "characters": ["Mike", "Harvey"],
+    "dialogue": [
+      {
+        "character": "MIKE",
+        "line": "Hi, er, Rick Sorkin."
+      },
+      {
+        "character": "HARVEY",
+        "line": "[Shaking hands] Harvey Specter, nice to meet you. Why don't you have a seat here?"
+      }
+    ]
+  },
+  {
+    "scene": "[Mike's briefcase opens, the bags of weed pour out onto the floor.]",
+    "characters": ["Mike", "Harvey"],
+    "dialogue": [
+      {
+        "character": "HARVEY",
+        "line": "Woah. What's this?"
+      }
+    ]
+  },
+  {
+    "scene": "[Mike goes to point at the weed as if he's going to explain, then halts. Back in the lobby, we see the bellboy run and stop exactly where Mike was. He looks around for Mike as the Harvard Law students all stare at him.]",
+    "characters": ["Mike", "Harvey", "Bellboy", "Harvard Law Students"],
+    "dialogue": []
+  },
+  {
+    "scene": "[Back in meeting room, Harvey and Mike are now both seated, opposite sides of a desk.]",
+    "characters": ["Harvey", "Mike"],
+    "dialogue": [
+      {
+        "character": "HARVEY",
+        "line": "How the hell did you know they were the police?"
+      },
+      {
+        "character": "MIKE",
+        "line": "I read this novel in elementary school and it was exactly the same thing."
+      },
+      {
+        "character": "HARVEY",
+        "line": "You read a novel... in elementary school?"
+      },
+      {
+        "character": "MIKE",
+        "line": "What? I like to read."
+      },
+      {
+        "character": "HARVEY",
+        "line": "Then why'd you ask them what time it was?"
+      },
+      {
+        "character": "MIKE",
+        "line": "Throw 'em off. What kind of drug dealer asks a cop what time it is when he's got a briefcase full of pot, right?"
+      },
+      {
+        "character": "HARVEY",
+        "line": "We should hire you. Jesus, I'd give you the 25 grand as a signing bonus."
+      },
+      {
+        "character": "MIKE",
+        "line": "I'll take it."
+      },
+      {
+        "character": "HARVEY",
+        "line": "Unfortunately, we only hire from Harvard. And you, not only did not go to Harvard Law School, you haven't even gone to any law school."
+      },
+      {
+        "character": "MIKE",
+        "line": "What if I told you I consume knowledge like no one you've ever met and I've actually passed the bar?"
+      },
+      {
+        "character": "HARVEY",
+        "line": "I'd say you're full of crap."
+      },
+      {
+        "character": "MIKE",
+        "line": "[Pointing at a book on the desk] That's a BarBri Legal Handbook right there, right? Open it up. Read me something. Anything."
+      }
+    ]
+  },
+  {
+    "scene": "[Harvey picks up the book, he looks slightly intrigued, but also doubtful. He opens it up and starts reading.]",
+    "characters": ["Harvey", "Mike"],
+    "dialogue": [
+      {
+        "character": "HARVEY",
+        "line": "Civil liability associated with agency is based on several factors, including-"
+      },
+      {
+        "character": "MIKE",
+        "line": "Including the deviation of the agent from his path, the reasonable inferene of agency on behalf of the plaintiff, and the nature of the damages themselves."
+      },
+      {
+        "character": "HARVEY",
+        "line": "[Shocked] How did you know that?"
+      },
+      {
+        "character": "MIKE",
+        "line": "I learned it. When I studied. For the bar."
+      },
+      {
+        "character": "HARVEY",
+        "line": "Okay, hotshot. Fire up this laptop. [Stands and walks to the other side of the desk as Mike sits in Harvey's seat and fires up the laptop] I'm gonna show you what a Harvard attorney can do. Pick a topic."
+      },
+      {
+        "character": "MIKE",
+        "line": "Stock option backdating."
+      },
+      {
+        "character": "HARVEY",
+        "line": "Although backdating options is legal, violations arose related to disclosures under RIC section 409A."
+      },
+      {
+        "character": "MIKE",
+        "line": "You forgot about Sarbanes-Oxley."
+      },
+      {
+        "character": "HARVEY",
+        "line": "The statute of limitations render Sarbanes-Oxley mute post-2007."
+      },
+      {
+        "character": "MIKE",
+        "line": "Well, not if you can find actions to cover up the violation as established in the Sixth Circuit May 2008."
+      },
+      {
+        "character": "HARVEY",
+        "line": "[Stumped] That's impressive, but you're sitting at a computer."
+      },
+      {
+        "character": "MIKE",
+        "line": "[Turning the laptop around] Playing cards. Sorry, if you want to beat me, you're gonna have to do it at something else. [Closes the laptop.]"
+      },
+      {
+        "character": "HARVEY",
+        "line": "How can you know all that?"
+      },
+      {
+        "character": "MIKE",
+        "line": "I told you. I like to read. And once I read something, I understand it, and once I understand it, I never forget it."
+      },
+      {
+        "character": "HARVEY",
+        "line": "Why take the bar?"
+      },
+      {
+        "character": "MIKE",
+        "line": "This dickhead bet me I couldn't pass it without going to law school."
+      },
+      {
+        "character": "HARVEY",
+        "line": "Okay, look, this is all pretty fascinating stuff but I'm afraid I gotta get back to work. I'll make sure Serpico isn't around, waiting for you."
+      }
+    ]
+  },
+  {
+    "scene": "[Harvey opens a door and looks out into the lobby, 6 Harvard Law students look back at him, Harvey looks unexcited, he looks back at Mike, then closes the door.]",
+    "characters": ["Harvey", "Mike", "Harvard Law Students"],
+    "dialogue": [
+      {
+        "character": "HARVEY",
+        "line": "If you want this job so much, why didn't you just go to law school?"
+      },
+      {
+        "character": "MIKE",
+        "line": "When I was in college, it was my dream to be a lawyer. I needed some money and Trevor convinced me to memorise this math test and sell it. [Shakes his head and laughs] Turns out we sold it to the dean's daughter. I lost my scholarship, I got kicked out of school, I-... [deep breath] I got knocked into a different life. And I have been wishing for a way back ever since."
+      },
+      {
+        "character": "HARVEY",
+        "line": "Let me tell you something. This isn't elementary school, this is hard work. Long hours. High pressure. I need a grown God damn man."
+      },
+      {
+        "character": "MIKE",
+        "line": "[Stands] You give me this and I will work as hard as it takes to school those Harvard douches and become the best lawyer you have ever seen."
+      },
+      {
+        "character": "HARVEY",
+        "line": "I'm inclined to give you a shot but what if I decide to go another way?"
+      },
+      {
+        "character": "MIKE",
+        "line": "I'd say that's fair. Sometimes I like to hang out with people who aren't that bright. You know, just to see how the other half lives."
+      },
+      {
+        "character": "HARVEY",
+        "line": "Move over. I'm emailing the firm I just found our next associate."
+      }
+    ]
+  },
+  {
+    "scene": "[Mike laughs slightly in disbelief, then moves. Harvey sits back down in his seat.]",
+    "characters": ["Harvey", "Mike"],
+    "dialogue": [
+       {
+        "character": "HARVEY",
+        "line": "[Opening up the laptop, Mike in disbelief] Alright. You're gonna start a week from Monday, here's what you're gonna do. First, no more pot, we drug test. [Speech over a clip of Mike flushing weed down a toilet] Stop smoking now, you'll be fine, I assume that's all the drugs you do."
+      },
+      {
+        "character": "MIKE",
+        "line": "How do you know that?"
+      },
+      {
+        "character": "HARVEY",
+        "line": "You read books, I read people. Potheads smoke pot, that's what they do."
+      },
+      {
+        "character": "MIKE",
+        "line": "That's not all I do. I have interests. [Clip shows Mike about unscrew something to flush away, then saving it.]"
+      },
+      {
+        "character": "HARVEY",
+        "line": "You're Alber friggin' Einstein and you couldn't manage to get into law school, you think that's not from smoking weed?"
+      },
+       {
+        "character": "MIKE",
+        "line": "Trevor got-"
+      },
+      {
+        "character": "HARVEY",
+        "line": "[Clip shows Mike purposely leaving a call from Trevor, then shows a list of missed calls from him too] That's another thing, you're never gonna talk to Trevor again. [Clip shows Mike putting the briefcase in an empty pizza box and into his oven] You're gonna ditch that briefcase and you're gonna get on a plane to Harvard and you're gonna learn everything there is about going to law school there. [Clip of Mike packing a bag.] Did you buy that suit?"
+      },
+      {
+        "character": "MIKE",
+        "line": "Yeah."
+      },
+      {
+        "character": "HARVEY",
+        "line": "Let's buy some new ones."
+      }
+    ]
+  }
+]

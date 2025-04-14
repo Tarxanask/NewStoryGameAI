@@ -1,0 +1,158 @@
+.display-one {
+  font-size: 75px;
+
+  @media #{$lg-layout} {
+    font-size: 70px;
+  }
+
+  @media #{$md-layout} {
+    font-size: 65px;
+  }
+
+  @media #{$sm-layout} {
+    font-size: 50px;
+  }
+
+  @media #{$large-mobile} {
+    font-size: 41px;
+    margin-bottom: 15px !important;
+  }
+
+  br {
+    @media #{$large-mobile} {
+      display: none;
+    }
+  }
+}
+
+.main-layout {
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+      height: 100dvh; // Uses dynamic viewport height, fixes overscroll
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .inner {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    .title {
+      line-height: 1.3;
+      margin-bottom: 16px;
+      display: inline-block;
+
+      span {
+        display: inline-block;
+
+        label {
+          margin-bottom: 0;
+        }
+      }
+    }
+
+    .description {
+      padding: 0 10%;
+      font-size: 24px;
+      line-height: 1.7;
+      margin-bottom: 80px;
+      color: var(--color-link);
+      text-wrap: balance;
+
+      &.about-us {
+        padding: 0 4%;
+      }
+
+      @media #{$lg-layout} {
+        padding: 0 14%;
+        font-size: 22px;
+        margin-bottom: 35px;
+
+        &.about-us {
+          padding: 0 2%;
+        }
+      }
+
+      @media #{$md-layout} {
+        padding: 0 1%;
+        font-size: 20px;
+        margin-bottom: 30px;
+
+        &.about-us {
+          padding: 0 1%;
+        }
+      }
+
+      @media #{$sm-layout} {
+        padding: 0 1%;
+        font-size: 20px;
+        margin-bottom: 30px;
+        &.about-us {
+          padding: 0 1%;
+        }
+      }
+
+      @media #{$large-mobile} {
+        font-size: 18px;
+        margin-bottom: 25px;
+      }
+    }
+
+    .desc-text {
+      @media #{$sm-layout} {
+        font-size: var(--font-size-b2);
+      }
+    }
+
+    &.text-left {
+      .description {
+        padding: 0;
+      }
+    }
+
+    .header-caption {
+      span {
+        color: var(--color-white);
+        font-size: 75px;
+
+        @media #{$lg-layout} {
+          font-size: 60px;
+        }
+
+        @media #{$md-layout} {
+          font-size: 55px;
+        }
+
+        @media #{$sm-layout} {
+          font-size: 55px;
+        }
+
+        @media #{$large-mobile} {
+          font-size: 46px;
+        }
+      }
+    }
+  }
+
+  .bg-shape {
+    position: static !important;
+    z-index: 1;
+
+    .bg-shape-one {
+      position: absolute !important;
+      top: 0;
+      left: 0;
+      height: 100%;
+    }
+
+    .bg-shape-two {
+      position: absolute !important;
+      top: 0;
+      right: 0;
+    }
+  }
+}

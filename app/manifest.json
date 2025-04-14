@@ -1,0 +1,13 @@
+{
+  "name": "Splynt",
+  "short_name": "Splynt",
+  "display": "standalone",
+  "start_url": "/",
+  "background_color": "#16181e",
+  "theme_color": "#0f112a",
+  "description": "AI Powered interactive story game",
+  "icons": [
+    { "src": "images/icons/favicon-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "images/icons/favicon-180x180.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}

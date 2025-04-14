@@ -1,0 +1,17 @@
+@import 'default/variables';
+@import 'default/mixins';
+@import 'default/reset';
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100;200;300;400;500;600;700;800&display=swap');
+@import 'default/extend';
+@import 'default/animations';
+@import 'default/shortcode';
+@import 'default/spacing';
+@import 'default/common';
+
+@import 'color/themebg';
+
+@import 'elements/sectiontitle';
+@import 'elements/button';
+
+
+@import 'elements/banner';

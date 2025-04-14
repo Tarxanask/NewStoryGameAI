@@ -1,0 +1,97 @@
+/* Button Styles  */
+.btn-read-more {
+  span {
+    &::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      height: 2px;
+      background-color: var(--color-link);
+      opacity: 0;
+      transition: 0.3s;
+      width: 100%;
+      bottom: 2px;
+    }
+
+    &::before {
+      position: absolute;
+      content: '';
+      left: auto;
+      bottom: 2px;
+      background: var(--color-primary);
+      width: 0;
+      height: 2px;
+      transition: 0.3s;
+      right: 0;
+      z-index: 1;
+    }
+
+    i {
+      margin-left: 5px;
+    }
+  }
+
+  &:hover,
+  &:focus-visible {
+    --_p: 0px;
+    outline-color: var(--color);
+    outline-offset: 0.05em;
+    span {
+      color: var(--color-primary);
+
+      &::before {
+        width: 100%;
+        left: 0;
+        right: auto;
+      }
+    }
+  }
+
+  &:disabled {
+    cursor: not-allowed;
+    opacity: 0.8;
+  }
+
+  &:active {
+    background: var(--color-primary);
+    span {
+      color: var(--color-heading);
+    }
+  }
+
+  position: relative;
+  display: inline-block;
+  transition: 0.3s;
+
+  font-size: 18px;
+  line-height: 1.6;
+  color: var(--color-link) !important;
+  text-wrap: pretty;
+  cursor: pointer;
+
+  --b: 2px;
+  --s: 0.45em;
+  @media #{$sm-layout} {
+    --s: 0.2em;
+
+    font-size: 14px;
+    line-height: 1.3;
+  }
+
+  --color: var(--color-primary);
+
+  padding: calc(0.5em + var(--s)) calc(0.9em + var(--s));
+  --_p: var(--s);
+  background: conic-gradient(from 90deg at var(--b) var(--b), #0000 90deg, var(--color) 0) var(--_p)
+    var(--_p) / calc(100% - var(--b) - 2 * var(--_p)) calc(100% - var(--b) - 2 * var(--_p));
+  transition: 0.3s linear, color 0s, background-color 0s;
+  outline: var(--b) solid #0000;
+  outline-offset: 0.6em;
+
+  border: 0;
+
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
