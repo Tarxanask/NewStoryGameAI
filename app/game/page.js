@@ -1,8 +1,8 @@
 import Game from '@/components/Game'
 
 export const metadata = {
-  title: 'Splynt - Try to get hired',
-  description:"AI Powered interactive story game"
+  title: 'Netherworld Champion',
+  description: 'A dark fantasy interactive story game where you are a half-human warrior from the Netherworld, tasked with destroying an artifact in the human realm.'
 }
 
 const HomePageLayout = () => {

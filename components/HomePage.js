@@ -56,14 +56,12 @@ const HomePage = () => {
             <span className="header-caption theme-gradient "> Interactive </span> Story Game
           </h1>
           <p className="description ">
-            You are <span className='text-primary'>Mike Ross</span>, an aspiring lawyer on your first interview at one of the biggest law
-            firms in New York, this is your shot to make a name for yourself. <br /> Can you get
-            Hired?
+            You are a <span className='text-primary'>half-human warrior</span> from the Netherworld, tasked with destroying an artifact in the human realm to allow the Netherworld to conquer Earth. <br /> Will you succeed?
           </p>
         </div>
       </div>
       <form className="w-full h-52 text-center py-3" onSubmit={startGame}>
-        <div className=" flex gap-10 justify-center ">
+        <div className="flex gap-10 justify-center ">
           <Select
             className=" flex-1 max-w-60"
             label="Choose difficulty"

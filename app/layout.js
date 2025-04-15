@@ -36,7 +36,7 @@ export default function RootLayout({ children }) {
       <head>
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Suits Interview Game</title>
+        <title>Netherworld Champion</title>
         <link rel="apple-touch-icon" sizes="57x57" href="images/icons/favicon-57x57.png" />
         <link rel="apple-touch-icon" sizes="60x60" href="images/icons/favicon-60x60.png" />
         <link rel="apple-touch-icon" sizes="72x72" href="images/icons/favicon-72x72.png" />
